@@ -27,9 +27,13 @@ In this project we take raw housing data and transform it in SQL Server to make 
 
 <br>
 
-### 1. SQL Code
+### 1. Before Cleaning
 
 <img src="https://github.com/Aarchie-05/Housing-Prices-Data-Cleaning/blob/main/code.png" alt="SS 1"/>
+
+### 1. After Data Cleaning (SQL)
+
+<img src="https://github.com/Aarchie-05/Housing-Prices-Data-Cleaning/blob/main/cleaned.png" alt="SS 1"/>
 
 
 ---
